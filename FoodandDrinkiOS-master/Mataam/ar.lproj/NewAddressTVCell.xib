@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="80" id="KGk-i7-Jjw" customClass="NewAddressTVCell" customModule="Mataam" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="80"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="79.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="eZL-TO-lFC">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="79.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="AddressName" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="U0K-fX-Gfr">
+                                <rect key="frame" x="16" y="11.5" width="288" height="16"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="16" id="nma-Ex-1nF"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qwZ-iJ-OKe">
+                                <rect key="frame" x="16" y="35.5" width="288" height="44"/>
+                                <subviews>
+                                    <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Home, Office, etc" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="T8F-wO-WLC">
+                                        <rect key="frame" x="8" y="7" width="280" height="30"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="30" id="IX0-UG-nyH"/>
+                                        </constraints>
+                                        <nil key="textColor"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrowdown" translatesAutoresizingMaskIntoConstraints="NO" id="0Ge-0s-o8t">
+                                        <rect key="frame" x="268" y="18" width="12" height="8"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="12" id="owm-9F-RQz"/>
+                                            <constraint firstAttribute="height" constant="8" id="tV5-et-12I"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="44" id="Egj-P4-9jk"/>
+                                    <constraint firstAttribute="trailing" secondItem="T8F-wO-WLC" secondAttribute="trailing" id="baC-aL-OiT"/>
+                                    <constraint firstAttribute="trailing" secondItem="0Ge-0s-o8t" secondAttribute="trailing" constant="8" id="iA4-hF-EO2"/>
+                                    <constraint firstItem="T8F-wO-WLC" firstAttribute="centerY" secondItem="qwZ-iJ-OKe" secondAttribute="centerY" id="ptX-1v-PZD"/>
+                                    <constraint firstItem="0Ge-0s-o8t" firstAttribute="centerY" secondItem="qwZ-iJ-OKe" secondAttribute="centerY" id="tzY-if-Qq3"/>
+                                    <constraint firstItem="T8F-wO-WLC" firstAttribute="leading" secondItem="qwZ-iJ-OKe" secondAttribute="leading" constant="8" id="vH2-Id-Zel"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="0.98031717539999996" green="0.98043435810000001" blue="0.98027724029999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="U0K-fX-Gfr" firstAttribute="leading" secondItem="eZL-TO-lFC" secondAttribute="leading" constant="16" id="29q-3R-ZpY"/>
+                            <constraint firstItem="qwZ-iJ-OKe" firstAttribute="leading" secondItem="eZL-TO-lFC" secondAttribute="leading" constant="16" id="8jr-St-1pA"/>
+                            <constraint firstItem="qwZ-iJ-OKe" firstAttribute="top" secondItem="U0K-fX-Gfr" secondAttribute="bottom" constant="8" id="AtG-XO-xuc"/>
+                            <constraint firstAttribute="trailing" secondItem="U0K-fX-Gfr" secondAttribute="trailing" constant="16" id="HMz-kP-hYg"/>
+                            <constraint firstAttribute="trailing" secondItem="qwZ-iJ-OKe" secondAttribute="trailing" constant="16" id="XdP-Q1-U3J"/>
+                            <constraint firstAttribute="bottom" secondItem="qwZ-iJ-OKe" secondAttribute="bottom" id="rwv-Qj-548"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="eZL-TO-lFC" secondAttribute="bottom" id="2by-wc-yGp"/>
+                    <constraint firstItem="eZL-TO-lFC" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="5qB-eh-4xd"/>
+                    <constraint firstItem="eZL-TO-lFC" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="976-48-unM"/>
+                    <constraint firstAttribute="trailing" secondItem="eZL-TO-lFC" secondAttribute="trailing" id="z9O-kb-T0Q"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="imgvarrow" destination="0Ge-0s-o8t" id="ZRd-DG-jMk"/>
+                <outlet property="lblTitle" destination="U0K-fX-Gfr" id="e6v-g0-lve"/>
+                <outlet property="tfAddress" destination="T8F-wO-WLC" id="opY-P8-Ted"/>
+                <outlet property="vTextField" destination="qwZ-iJ-OKe" id="Se5-8S-l62"/>
+            </connections>
+            <point key="canvasLocation" x="7" y="-174"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="arrowdown" width="14" height="8"/>
+    </resources>
+</document>

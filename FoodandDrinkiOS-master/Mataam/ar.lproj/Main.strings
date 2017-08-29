@@ -1,0 +1,783 @@
+
+/* Class = "UITextField"; placeholder = "    Name LastName"; ObjectID = "048-5G-ira"; */
+"048-5G-ira.placeholder" = "    ا سم ا ول العائلة";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "056-p4-Y1o"; */
+"056-p4-Y1o.normalTitle" = "Female";
+
+/* Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "1o2-OE-a9X"; */
+"1o2-OE-a9X.placeholder" = "example@gmail.com";
+
+/* Class = "UILabel"; text = "KD 0.500"; ObjectID = "20t-LL-Gwz"; */
+"20t-LL-Gwz.text" = "KD 0.500";
+
+/* Class = "UILabel"; text = "19:00"; ObjectID = "2Ev-xq-5gv"; */
+"2Ev-xq-5gv.text" = "19:00";
+
+/* Class = "UILabel"; text = "35pt"; ObjectID = "2Jp-Rp-hV2"; */
+"2Jp-Rp-hV2.text" = "35pt";
+
+/* Class = "UIButton"; normalTitle = "RESEND CODE"; ObjectID = "2d1-xR-xMK"; */
+"2d1-xR-xMK.normalTitle" = "إعادة إرسال الرمز";
+
+/* Class = "UINavigationItem"; title = "Chat Room"; ObjectID = "2eq-ko-aeC"; */
+"2eq-ko-aeC.title" = "Chat Room";
+
+/* Class = "UILabel"; text = "4521"; ObjectID = "2zl-Ex-uUa"; */
+"2zl-Ex-uUa.text" = "4521";
+
+/* Class = "UIButton"; normalTitle = "Choose Cuisine"; ObjectID = "3AX-uI-nIn"; */
+"3AX-uI-nIn.normalTitle" = "إختر نوع ا طبخ";
+
+/* Class = "UIButton"; normalTitle = "8 feb"; ObjectID = "3UK-qd-JpM"; */
+"3UK-qd-JpM.normalTitle" = "8 يونيو";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "3W8-kV-82h"; */
+"3W8-kV-82h.normalTitle" = "الغاء";
+
+/* Class = "UIButton"; normalTitle = "10:00AM - 12:45PM"; ObjectID = "3kR-K3-6xt"; */
+"3kR-K3-6xt.normalTitle" = "10:00AM - 12:45PM";
+
+/* Class = "UILabel"; text = "ORDER STATUS:"; ObjectID = "3yU-sH-yfe"; */
+"3yU-sH-yfe.text" = "ORDER STATUS:";
+
+/* Class = "UILabel"; text = "Pizzas, American, International"; ObjectID = "44x-YO-GMP"; */
+"44x-YO-GMP.text" = "بيتزا, أمريكي, إيطالي";
+
+/* Class = "UILabel"; text = "Delivery Time"; ObjectID = "47h-rE-a9X"; */
+"47h-rE-a9X.text" = "Delivery Time";
+
+/* Class = "UITextField"; placeholder = "    Email"; ObjectID = "4Is-dC-AVZ"; */
+"4Is-dC-AVZ.placeholder" = "    البريد ا لكتروني (آختياري)";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "4Va-jb-wfx"; */
+"4Va-jb-wfx.text" = "الرصيد";
+
+/* Class = "UIButton"; normalTitle = "SEARCH FOR PICKUP"; ObjectID = "4lC-7t-T9I"; */
+"4lC-7t-T9I.normalTitle" = "عرض ا طاعم بيك أب";
+
+/* Class = "UIButton"; normalTitle = "    Keep me logged In"; ObjectID = "4y7-DM-5i3"; */
+"4y7-DM-5i3.normalTitle" = "ابقى متص َ";
+
+/* Class = "UIButton"; normalTitle = "View Order"; ObjectID = "57B-aK-iee"; */
+"57B-aK-iee.normalTitle" = "View Order";
+
+/* Class = "UILabel"; text = "Welcome Back,"; ObjectID = "5El-Lz-Zuu"; */
+"5El-Lz-Zuu.text" = "مرحبا,";
+
+/* Class = "UIButton"; normalTitle = "18:30"; ObjectID = "5Ia-PM-Yxz"; */
+"5Ia-PM-Yxz.normalTitle" = "18:30";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "5Vj-nQ-96s"; */
+"5Vj-nQ-96s.text" = "Feedback";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "5Xh-VH-aWs"; */
+"5Xh-VH-aWs.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Points Gained/Used"; ObjectID = "5eP-4y-RRq"; */
+"5eP-4y-RRq.text" = "Points Gained/Used";
+
+/* Class = "UILabel"; text = "Pizzas, american, International"; ObjectID = "65f-Mv-ckZ"; */
+"65f-Mv-ckZ.text" = "بيتزا, أمريكي, إيطالي";
+
+/* Class = "UILabel"; text = "#456761"; ObjectID = "6RQ-dJ-cbH"; */
+"6RQ-dJ-cbH.text" = "#456761";
+
+/* Class = "UITextField"; placeholder = "    Password"; ObjectID = "6dd-tr-LJE"; */
+"6dd-tr-LJE.placeholder" = "    كلمة السر";
+
+/* Class = "UIButton"; normalTitle = "Choose Cuisine"; ObjectID = "6iU-Q5-gGM"; */
+"6iU-Q5-gGM.normalTitle" = "إختر نوع ا طبخ";
+
+/* Class = "UILabel"; text = "KD 4.500"; ObjectID = "72R-rf-ywb"; */
+"72R-rf-ywb.text" = "د.ك. 4.500";
+
+/* Class = "UIButton"; normalTitle = "Cash on delivery"; ObjectID = "77q-dB-wkr"; */
+"77q-dB-wkr.normalTitle" = "نقداً";
+
+/* Class = "UIButton"; normalTitle = "Choose Area"; ObjectID = "7Kv-XA-3qI"; */
+"7Kv-XA-3qI.normalTitle" = "إختر ا نطقة";
+
+/* Class = "UILabel"; text = "Chicken Wings"; ObjectID = "7WZ-3o-qs1"; */
+"7WZ-3o-qs1.text" = "أجنحة دجاج";
+
+/* Class = "UIButton"; normalTitle = "Cash on delivery"; ObjectID = "7iA-me-79m"; */
+"7iA-me-79m.normalTitle" = "نقداً";
+
+/* Class = "UINavigationItem"; title = "Promotion"; ObjectID = "7jR-pu-EhD"; */
+"7jR-pu-EhD.title" = "العروض";
+
+/* Class = "UILabel"; text = "Newly opened"; ObjectID = "7oa-3d-Xjf"; */
+"7oa-3d-Xjf.text" = "مطعم جديد";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "8Cd-wm-K4s"; */
+"8Cd-wm-K4s.normalTitle" = "الغاء";
+
+/* Class = "UILabel"; text = "Total amount:"; ObjectID = "8a4-gG-fX6"; */
+"8a4-gG-fX6.text" = "Total amount:";
+
+/* Class = "UILabel"; text = "Leave a note for restaurant:"; ObjectID = "8bu-Ut-Pqn"; */
+"8bu-Ut-Pqn.text" = "Leave a note for restaurant:";
+
+/* Class = "UILabel"; text = "Leave a note for restaurant:"; ObjectID = "8eK-L5-3W9"; */
+"8eK-L5-3W9.text" = "Leave a note for restaurant:";
+
+/* Class = "UILabel"; text = "Pizza Hut"; ObjectID = "9NM-Oj-8Zw"; */
+"9NM-Oj-8Zw.text" = "بيتزا هت";
+
+/* Class = "UIButton"; normalTitle = "Choose Cuisine"; ObjectID = "9TP-gL-T2j"; */
+"9TP-gL-T2j.normalTitle" = "إختر نوع ا طبخ";
+
+/* Class = "UINavigationItem"; title = "Order Confirmation"; ObjectID = "9V8-8a-Awc"; */
+"9V8-8a-Awc.title" = "Order Confirmation";
+
+/* Class = "UILabel"; text = "Payment:"; ObjectID = "9tZ-O7-LOI"; */
+"9tZ-O7-LOI.text" = "طريقة الدفع:";
+
+/* Class = "UIButton"; normalTitle = "SEARCH FOR PICKUP"; ObjectID = "AJ5-Ib-48V"; */
+"AJ5-Ib-48V.normalTitle" = "عرض ا طاعم بيك أب";
+
+/* Class = "UIButton"; normalTitle = "SEARCH FOR RESERVATION"; ObjectID = "ANp-Rw-BvF"; */
+"ANp-Rw-BvF.normalTitle" = "عرض ا طاعم للحجوزات";
+
+/* Class = "UIButton"; normalTitle = "Loyalty Points"; ObjectID = "ANt-XD-gTW"; */
+"ANt-XD-gTW.normalTitle" = "نقاط العم ء";
+
+/* Class = "UIButton"; normalTitle = "SEARCH FOR CATERING"; ObjectID = "APK-Wp-jde"; */
+"APK-Wp-jde.normalTitle" = "عرض ا طاعم للكيترنق";
+
+/* Class = "UIButton"; normalTitle = "17 Feb"; ObjectID = "AlN-nL-coa"; */
+"AlN-nL-coa.normalTitle" = "17 يونيو";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "AuP-O4-bC5"; */
+"AuP-O4-bC5.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Under Process"; ObjectID = "B7V-ux-VS6"; */
+"B7V-ux-VS6.text" = "Under Process";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "BXT-XC-y1x"; */
+"BXT-XC-y1x.normalTitle" = "تأكيد";
+
+/* Class = "UIButton"; normalTitle = "1985/01/30"; ObjectID = "Br7-My-faE"; */
+"Br7-My-faE.normalTitle" = "1985/01/30";
+
+/* Class = "UILabel"; text = "Reservation no:"; ObjectID = "CD3-eP-L3v"; */
+"CD3-eP-L3v.text" = "Reservation no:";
+
+/* Class = "UILabel"; text = "Quantity:"; ObjectID = "CDH-xi-aFp"; */
+"CDH-xi-aFp.text" = "Quantity:";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "CDd-c6-rdi"; */
+"CDd-c6-rdi.normalTitle" = "Home";
+
+/* Class = "UILabel"; text = "Restaurant"; ObjectID = "CUr-sZ-uNY"; */
+"CUr-sZ-uNY.text" = "Restaurant";
+
+/* Class = "UIButton"; normalTitle = "Redeem Coupon"; ObjectID = "ChO-vc-aHa"; */
+"ChO-vc-aHa.normalTitle" = "Redeem Coupon";
+
+/* Class = "UILabel"; text = "Reservation details:"; ObjectID = "DH3-hI-wEL"; */
+"DH3-hI-wEL.text" = "Reservation details:";
+
+/* Class = "UILabel"; text = "Chicken Kickers"; ObjectID = "DHf-q0-ztn"; */
+"DHf-q0-ztn.text" = "دجاج الكيكرز";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "DOT-YH-MMl"; */
+"DOT-YH-MMl.text" = "Payment Method";
+
+/* Class = "UINavigationItem"; title = "Register New Account"; ObjectID = "DYL-le-dKV"; */
+"DYL-le-dKV.title" = "تسجيل مستخدم جديد";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "DfX-qG-E7G"; */
+"DfX-qG-E7G.text" = "الرصيد";
+
+/* Class = "UITextField"; placeholder = "    Password"; ObjectID = "Dfq-Xw-ZFo"; */
+"Dfq-Xw-ZFo.placeholder" = "    كلمة السر";
+
+/* Class = "UINavigationItem"; title = "My Orders"; ObjectID = "DtY-K5-Nbo"; */
+"DtY-K5-Nbo.title" = "طلباتي";
+
+/* Class = "UILabel"; text = "Please remember to leave us"; ObjectID = "E8S-is-ZyK"; */
+"E8S-is-ZyK.text" = "Please remember to leave us";
+
+/* Class = "UILabel"; text = "Enter Password* "; ObjectID = "E8q-dL-KqR"; */
+"E8q-dL-KqR.text" = "Enter Password* ";
+
+/* Class = "UILabel"; text = "Paid amount:"; ObjectID = "E9U-kD-1u3"; */
+"E9U-kD-1u3.text" = "Paid amount:";
+
+/* Class = "UILabel"; text = "35pt"; ObjectID = "EMa-0M-y9k"; */
+"EMa-0M-y9k.text" = "35pt";
+
+/* Class = "UILabel"; text = "135pt"; ObjectID = "EXc-4y-xU6"; */
+"EXc-4y-xU6.text" = "135pt";
+
+/* Class = "UIButton"; normalTitle = "MAKE RESERVATION"; ObjectID = "EdT-PU-d2x"; */
+"EdT-PU-d2x.normalTitle" = "MAKE RESERVATION";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "Ewn-Ve-V0F"; */
+"Ewn-Ve-V0F.normalTitle" = "تأكيد";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "FIf-Ay-Wnd"; */
+"FIf-Ay-Wnd.normalTitle" = "تأكيد";
+
+/* Class = "UINavigationItem"; title = "mataam"; ObjectID = "FSI-NS-H7d"; */
+"FSI-NS-H7d.title" = "mataam";
+
+/* Class = "UILabel"; text = "18/02/2017"; ObjectID = "FgK-Be-oSY"; */
+"FgK-Be-oSY.text" = "18/02/2017";
+
+/* Class = "UILabel"; text = "18:45"; ObjectID = "GPh-2L-d38"; */
+"GPh-2L-d38.text" = "18:45";
+
+/* Class = "UILabel"; text = "KD 0.500"; ObjectID = "GX2-gF-GHE"; */
+"GX2-gF-GHE.text" = "د.ك. 0.500";
+
+/* Class = "UILabel"; text = "Mataam Points:"; ObjectID = "GbI-c1-bVF"; */
+"GbI-c1-bVF.text" = "نقاط برنامج مطاعم:";
+
+/* Class = "UIButton"; normalTitle = "Choose Area"; ObjectID = "GeC-w4-cje"; */
+"GeC-w4-cje.normalTitle" = "إختر ا نطقة";
+
+/* Class = "UILabel"; text = "Jaber Al Ahamad"; ObjectID = "HDA-cH-N2K"; */
+"HDA-cH-N2K.text" = "Jaber Al Ahamad";
+
+/* Class = "UILabel"; text = "KD 4.500"; ObjectID = "Hb0-SJ-YOa"; */
+"Hb0-SJ-YOa.text" = "د.ك. 4.500";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "IMN-0K-eBA"; */
+"IMN-0K-eBA.text" = "Yes";
+
+/* Class = "UILabel"; text = "Domino's Pizza"; ObjectID = "IQW-Qm-uE9"; */
+"IQW-Qm-uE9.text" = "دومينوز بيتزا";
+
+/* Class = "UIButton"; normalTitle = "Choose Cuisine"; ObjectID = "Ipi-Eh-o4F"; */
+"Ipi-Eh-o4F.normalTitle" = "إختر نوع ا طبخ";
+
+/* Class = "UILabel"; text = "AD KD 5.250 or more to proceed with your order"; ObjectID = "Isa-ow-bXE"; */
+"Isa-ow-bXE.text" = "ضف 5.250 د.ك. أو أكثر لتنفيذ الطلب";
+
+/* Class = "UILabel"; text = "Subtotal:"; ObjectID = "JAr-GZ-FZk"; */
+"JAr-GZ-FZk.text" = "Subtotal:";
+
+/* Class = "UILabel"; text = "Reservation Notes (optional)"; ObjectID = "Kf9-dB-oQo"; */
+"Kf9-dB-oQo.text" = "Reservation Notes (optional)";
+
+/* Class = "UILabel"; text = "Enter Phone Number* "; ObjectID = "L18-Oo-D7Q"; */
+"L18-Oo-D7Q.text" = "Enter Phone Number* ";
+
+/* Class = "UINavigationItem"; title = "Your order"; ObjectID = "L9R-rp-nFo"; */
+"L9R-rp-nFo.title" = "Your order";
+
+/* Class = "UILabel"; text = "Delivery Time:"; ObjectID = "LN2-pi-fBk"; */
+"LN2-pi-fBk.text" = "Delivery Time:";
+
+/* Class = "UIButton"; normalTitle = "Choose Cuisine"; ObjectID = "LQm-RG-SuF"; */
+"LQm-RG-SuF.normalTitle" = "إختر نوع ا طبخ";
+
+/* Class = "UILabel"; text = "35pt"; ObjectID = "LSM-Ja-rGN"; */
+"LSM-Ja-rGN.text" = "35pt";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Lo8-9k-UUw"; */
+"Lo8-9k-UUw.normalTitle" = "الغاء";
+
+/* Class = "UIButton"; normalTitle = "PLACE ORDER"; ObjectID = "MLO-dH-ddu"; */
+"MLO-dH-ddu.normalTitle" = "تنفيذ الطلب";
+
+/* Class = "UIButton"; normalTitle = "Pre-order for later"; ObjectID = "Mae-f9-dcR"; */
+"Mae-f9-dcR.normalTitle" = "Pre-order for later";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "N4T-KE-RdN"; */
+"N4T-KE-RdN.normalTitle" = "تأكيد";
+
+/* Class = "UIButton"; normalTitle = "18:00"; ObjectID = "N5N-oZ-mjR"; */
+"N5N-oZ-mjR.normalTitle" = "18:00";
+
+/* Class = "UILabel"; text = "Choose Location:"; ObjectID = "N8u-dC-adV"; */
+"N8u-dC-adV.text" = "Choose Location:";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "NP6-0e-swD"; */
+"NP6-0e-swD.normalTitle" = "تأكيد";
+
+/* Class = "UILabel"; text = "Haven't you received an SMS ?"; ObjectID = "NW1-F4-XRs"; */
+"NW1-F4-XRs.text" = "لم أستلم رمز التفعيل";
+
+/* Class = "UILabel"; text = "Order Type"; ObjectID = "Nk2-bq-4ot"; */
+"Nk2-bq-4ot.text" = "Order Type";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "O5t-aA-LcX"; */
+"O5t-aA-LcX.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "PSc-gJ-G5s"; */
+"PSc-gJ-G5s.normalTitle" = "مستخدم جديد";
+
+/* Class = "UIButton"; normalTitle = "View Cart"; ObjectID = "PWM-dB-i5J"; */
+"PWM-dB-i5J.normalTitle" = "View Cart";
+
+/* Class = "UILabel"; text = "60 min"; ObjectID = "PjX-dT-YCt"; */
+"PjX-dT-YCt.text" = "60 min";
+
+/* Class = "UILabel"; text = "Confirm Password* "; ObjectID = "Q2e-zg-5KK"; */
+"Q2e-zg-5KK.text" = "Confirm Password* ";
+
+/* Class = "UILabel"; text = "Total KD 10.000"; ObjectID = "Q8G-j5-A2o"; */
+"Q8G-j5-A2o.text" = "Total KD 10.000";
+
+/* Class = "UILabel"; text = "Payment method:"; ObjectID = "QGT-E0-6q2"; */
+"QGT-E0-6q2.text" = "Payment method:";
+
+/* Class = "UILabel"; text = "18:15"; ObjectID = "QKI-oo-lh4"; */
+"QKI-oo-lh4.text" = "18:15";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "QVW-2W-yyG"; */
+"QVW-2W-yyG.normalTitle" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "RMb-aX-N0N"; */
+"RMb-aX-N0N.normalTitle" = "الغاء";
+
+/* Class = "UILabel"; text = "KD 6.250"; ObjectID = "RQM-nV-Sum"; */
+"RQM-nV-Sum.text" = "د.ك. 6.250";
+
+/* Class = "UILabel"; text = "Rate this order:"; ObjectID = "S3f-3w-3XC"; */
+"S3f-3w-3XC.text" = "Rate this order:";
+
+/* Class = "UILabel"; text = "Payment:"; ObjectID = "SiY-FJ-FMB"; */
+"SiY-FJ-FMB.text" = "طريقة الدفع:";
+
+/* Class = "UILabel"; text = "KD 5.750"; ObjectID = "TBx-Dj-zkF"; */
+"TBx-Dj-zkF.text" = "د.ك. 5.750";
+
+/* Class = "UIButton"; normalTitle = "16 feb"; ObjectID = "Tk7-pb-VpD"; */
+"Tk7-pb-VpD.normalTitle" = "16 يونيو";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Tqz-bO-Acx"; */
+"Tqz-bO-Acx.normalTitle" = "الغاء";
+
+/* Class = "UILabel"; text = "135pt"; ObjectID = "U1B-Ad-uxw"; */
+"U1B-Ad-uxw.text" = "135pt";
+
+/* Class = "UILabel"; text = "Payment:"; ObjectID = "U81-9a-DjU"; */
+"U81-9a-DjU.text" = "طريقة الدفع:";
+
+/* Class = "UIButton"; normalTitle = "Mataam Points"; ObjectID = "U9D-HN-zcW"; */
+"U9D-HN-zcW.normalTitle" = "نقاط برنامج مطاعم";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "UEC-SJ-rAa"; */
+"UEC-SJ-rAa.text" = "Yes";
+
+/* Class = "UILabel"; text = "Mataam has sent an SMS with a code to your phone number"; ObjectID = "UI5-q8-lu6"; */
+"UI5-q8-lu6.text" = "تم إرسال رساله نصيه برمز التفعيل الي رقم هاتفك ا تنقل";
+
+/* Class = "UILabel"; text = "Repeat New Password* "; ObjectID = "USN-jG-QgK"; */
+"USN-jG-QgK.text" = "Repeat New Password* ";
+
+/* Class = "UILabel"; text = "Order no:"; ObjectID = "UVS-NG-8i9"; */
+"UVS-NG-8i9.text" = "Order no:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Uif-vp-6cH"; */
+"Uif-vp-6cH.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "(4793)"; ObjectID = "V1k-aE-xQy"; */
+"V1k-aE-xQy.text" = "(4793)";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "VBx-WY-KLo"; */
+"VBx-WY-KLo.normalTitle" = "مستخدم جديد";
+
+/* Class = "UILabel"; text = "Minimum Order Amount"; ObjectID = "VKa-Zv-RTX"; */
+"VKa-Zv-RTX.text" = "الحد ا دني للطلبات";
+
+/* Class = "UINavigationItem"; title = "My Reservations"; ObjectID = "WMH-n4-O2D"; */
+"WMH-n4-O2D.title" = "حجوزاتي";
+
+/* Class = "UILabel"; text = "Mataam Points:"; ObjectID = "Wrp-5m-MVO"; */
+"Wrp-5m-MVO.text" = "نقاط برنامج مطاعم:";
+
+/* Class = "UILabel"; text = "Order No."; ObjectID = "WwG-aA-DmX"; */
+"WwG-aA-DmX.text" = "Order No.";
+
+/* Class = "UIButton"; normalTitle = "Choose Area"; ObjectID = "X6O-8P-Lzu"; */
+"X6O-8P-Lzu.normalTitle" = "إختر ا نطقة";
+
+/* Class = "UIButton"; normalTitle = "18:30"; ObjectID = "X8x-AC-FOf"; */
+"X8x-AC-FOf.normalTitle" = "18:30";
+
+/* Class = "UILabel"; text = "ADD ADDRESS"; ObjectID = "Xgx-Xy-VBM"; */
+"Xgx-Xy-VBM.text" = "ADD ADDRESS";
+
+/* Class = "UITextField"; placeholder = "    Phone Number"; ObjectID = "Xho-bu-zPv"; */
+"Xho-bu-zPv.placeholder" = "    رقم الهاتف";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "Y5y-aH-QFC"; */
+"Y5y-aH-QFC.text" = "الرصيد";
+
+/* Class = "UISegmentedControl"; YPX-04-ijo.segmentTitles[0] = "MENU"; ObjectID = "YPX-04-ijo"; */
+"YPX-04-ijo.segmentTitles[0]" = "قائمة الطعام";
+
+/* Class = "UISegmentedControl"; YPX-04-ijo.segmentTitles[1] = "REVIEWS"; ObjectID = "YPX-04-ijo"; */
+"YPX-04-ijo.segmentTitles[1]" = "تقييم العم ء";
+
+/* Class = "UISegmentedControl"; YPX-04-ijo.segmentTitles[2] = "INFO"; ObjectID = "YPX-04-ijo"; */
+"YPX-04-ijo.segmentTitles[2]" = "معلومات ا طعم";
+
+/* Class = "UILabel"; text = "KD 0.00"; ObjectID = "YSn-7V-sKD"; */
+"YSn-7V-sKD.text" = "د.ك. 0.00";
+
+/* Class = "UILabel"; text = "Gained/Used"; ObjectID = "YaT-MU-9fV"; */
+"YaT-MU-9fV.text" = "ا كتسب/ا ستخدم";
+
+/* Class = "UITextField"; placeholder = "    Phone Number"; ObjectID = "YeL-5H-sHe"; */
+"YeL-5H-sHe.placeholder" = "    رقم الهاتف";
+
+/* Class = "UILabel"; text = "Cuisines"; ObjectID = "Ys9-p5-19m"; */
+"Ys9-p5-19m.text" = "ا طبخ";
+
+/* Class = "UIButton"; normalTitle = "Choose Area"; ObjectID = "Zk8-tN-HYP"; */
+"Zk8-tN-HYP.normalTitle" = "إختر ا نطقة";
+
+/* Class = "UIButton"; normalTitle = "SEARCH FOR CATERING"; ObjectID = "Zpm-6C-mRN"; */
+"Zpm-6C-mRN.normalTitle" = "عرض ا طاعم للكيترنق";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "aU7-rD-Rjl"; */
+"aU7-rD-Rjl.normalTitle" = "تأكيد";
+
+/* Class = "UIButton"; normalTitle = "Choose Area"; ObjectID = "aaX-jB-w6c"; */
+"aaX-jB-w6c.normalTitle" = "إختر ا نطقة";
+
+/* Class = "UILabel"; text = "16th Feb 2017"; ObjectID = "ah4-YY-8Pv"; */
+"ah4-YY-8Pv.text" = "16th يونيو 2017";
+
+/* Class = "UIButton"; normalTitle = "SEARCH FOR DELIVERY"; ObjectID = "bF7-o9-CFw"; */
+"bF7-o9-CFw.normalTitle" = "عرض ا طاعم التوصيل";
+
+/* Class = "UILabel"; text = "18:00"; ObjectID = "bVd-UA-28o"; */
+"bVd-UA-28o.text" = "18:00";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "bar-HO-0FY"; */
+"bar-HO-0FY.normalTitle" = "الغاء";
+
+/* Class = "UILabel"; text = "Email*"; ObjectID = "bgg-qu-zFu"; */
+"bgg-qu-zFu.text" = "Email*";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "bqq-Gq-U07"; */
+"bqq-Gq-U07.placeholder" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Choose Area"; ObjectID = "brd-bK-WOk"; */
+"brd-bK-WOk.normalTitle" = "إختر ا نطقة";
+
+/* Class = "UIButton"; normalTitle = "Add To Cart"; ObjectID = "bxD-Fh-I6Q"; */
+"bxD-Fh-I6Q.normalTitle" = "نفذ";
+
+/* Class = "UILabel"; text = "Thanks you for your order"; ObjectID = "by0-QD-0sI"; */
+"by0-QD-0sI.text" = "Thanks you for your order";
+
+/* Class = "UILabel"; text = "Points Gained/Used"; ObjectID = "cPi-5Q-kRS"; */
+"cPi-5Q-kRS.text" = "Points Gained/Used";
+
+/* Class = "UIButton"; normalTitle = "Choose Cuisine"; ObjectID = "cdl-0S-0pq"; */
+"cdl-0S-0pq.normalTitle" = "إختر نوع ا طبخ";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "cf1-gs-yC0"; */
+"cf1-gs-yC0.normalTitle" = "تأكيد";
+
+/* Class = "UIButton"; normalTitle = "Choose Cuisine"; ObjectID = "clN-J2-SY2"; */
+"clN-J2-SY2.normalTitle" = "إختر نوع ا طبخ";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "cqd-S6-XDp"; */
+"cqd-S6-XDp.text" = "Date:";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "d9y-Oc-b24"; */
+"d9y-Oc-b24.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "2 persons x KWD 15.0000"; ObjectID = "dbH-zZ-YV3"; */
+"dbH-zZ-YV3.text" = "2 persons x KWD 15.0000";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "dcb-BH-sxc"; */
+"dcb-BH-sxc.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "KFC"; ObjectID = "e85-wu-lXX"; */
+"e85-wu-lXX.text" = "KFC";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "e8k-OU-quo"; */
+"e8k-OU-quo.text" = "الرصيد";
+
+/* Class = "UIButton"; normalTitle = "Credit card"; ObjectID = "eKe-WM-cvH"; */
+"eKe-WM-cvH.normalTitle" = "بطاقة ا تمان";
+
+/* Class = "UILabel"; text = "Domino's Pizza"; ObjectID = "eUo-BI-paF"; */
+"eUo-BI-paF.text" = "دومينوز بيتزا";
+
+/* Class = "UILabel"; text = "2687 Reviews"; ObjectID = "f2I-2X-1fu"; */
+"f2I-2X-1fu.text" = "2687 تقييم العم ء";
+
+/* Class = "UILabel"; text = "KD 25.350"; ObjectID = "f76-3h-3rT"; */
+"f76-3h-3rT.text" = "د.ك. 25.350";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "fMB-Ko-sI6"; */
+"fMB-Ko-sI6.normalTitle" = "الغاء";
+
+/* Class = "UILabel"; text = "Enter Current Password* "; ObjectID = "fOR-f0-QxX"; */
+"fOR-f0-QxX.text" = "Enter Current Password* ";
+
+/* Class = "UIButton"; normalTitle = "Loyalty Points"; ObjectID = "fwR-jm-RAt"; */
+"fwR-jm-RAt.normalTitle" = "نقاط العم ء";
+
+/* Class = "UILabel"; text = "#456761"; ObjectID = "g2C-U3-KAu"; */
+"g2C-U3-KAu.text" = "#456761";
+
+/* Class = "UILabel"; text = "Amount:"; ObjectID = "gFz-CD-8uG"; */
+"gFz-CD-8uG.text" = "Amount:";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "gkA-id-qBg"; */
+"gkA-id-qBg.normalTitle" = "تأكيد";
+
+/* Class = "UITextField"; placeholder = "Name LastName"; ObjectID = "glB-4x-Qmt"; */
+"glB-4x-Qmt.placeholder" = "ا سم ا ول العائلة";
+
+/* Class = "UILabel"; text = "Delivery Address"; ObjectID = "glQ-rd-ABD"; */
+"glQ-rd-ABD.text" = "Delivery Address";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "h7Y-nl-Qgr"; */
+"h7Y-nl-Qgr.text" = "22";
+
+/* Class = "UIButton"; normalTitle = "Mataam Points"; ObjectID = "hPx-HK-G13"; */
+"hPx-HK-G13.normalTitle" = "نقاط برنامج مطاعم";
+
+/* Class = "UILabel"; text = "Pizza Hut"; ObjectID = "hrK-cD-ZM1"; */
+"hrK-cD-ZM1.text" = "بيتزا هت";
+
+/* Class = "UINavigationItem"; title = "Domino's Pizza"; ObjectID = "iNo-tx-3ec"; */
+"iNo-tx-3ec.title" = "دومينوز بيتزا";
+
+/* Class = "UILabel"; text = "Gained/Used"; ObjectID = "ilb-Az-eQF"; */
+"ilb-Az-eQF.text" = "Gained/Used";
+
+/* Class = "UILabel"; text = "Delivery Fee"; ObjectID = "iux-Ii-KaG"; */
+"iux-Ii-KaG.text" = "Delivery Fee";
+
+/* Class = "UILabel"; text = "Order Time"; ObjectID = "j2W-hI-YVt"; */
+"j2W-hI-YVt.text" = "Order Time";
+
+/* Class = "UILabel"; text = "2 persons"; ObjectID = "jgP-l2-vDs"; */
+"jgP-l2-vDs.text" = "2 persons";
+
+/* Class = "UILabel"; text = "Classic hand toasted, toasted, toasted, toasted,toasted,toasted,toasted...toasted, toasted, toasted,toasted,toasted,toasted..."; ObjectID = "jhD-4h-shL"; */
+"jhD-4h-shL.text" = "Classic hand toasted, toasted, toasted, toasted,toasted,toasted,toasted...toasted, toasted, toasted,toasted,toasted,toasted...";
+
+/* Class = "UILabel"; text = "KD 6.250"; ObjectID = "jmC-Sz-BSj"; */
+"jmC-Sz-BSj.text" = "د.ك. 6.250";
+
+/* Class = "UINavigationItem"; title = "SMS OTP"; ObjectID = "jyx-nJ-vKF"; */
+"jyx-nJ-vKF.title" = "تسجيل مستخدم جديد";
+
+/* Class = "UILabel"; text = "135pt"; ObjectID = "k45-SA-79h"; */
+"k45-SA-79h.text" = "135pt";
+
+/* Class = "UILabel"; text = "ORDER STATUS:"; ObjectID = "k5j-IU-xsd"; */
+"k5j-IU-xsd.text" = "ORDER STATUS:";
+
+/* Class = "UILabel"; text = "Date of Birth"; ObjectID = "kzr-bK-zRF"; */
+"kzr-bK-zRF.text" = "Date of Birth";
+
+/* Class = "UINavigationItem"; title = "Delivery In Abdullah"; ObjectID = "lJI-EV-e26"; */
+"lJI-EV-e26.title" = "عبد ا  السالم";
+
+/* Class = "UILabel"; text = "Gained/Used"; ObjectID = "lOL-TB-N1N"; */
+"lOL-TB-N1N.text" = "Gained/Used";
+
+/* Class = "UILabel"; text = "KD 6.250"; ObjectID = "lZz-tg-TeC"; */
+"lZz-tg-TeC.text" = "د.ك. 6.250";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "lbn-uN-pOU"; */
+"lbn-uN-pOU.normalTitle" = "الغاء";
+
+/* Class = "UIButton"; normalTitle = "PROCEED TO CHECKOUT"; ObjectID = "ljC-k2-BMQ"; */
+"ljC-k2-BMQ.normalTitle" = "PROCEED TO CHECKOUT";
+
+/* Class = "UIButton"; normalTitle = "Knet"; ObjectID = "m4j-kp-AmM"; */
+"m4j-kp-AmM.normalTitle" = "كي نت";
+
+/* Class = "UIButton"; normalTitle = "17 Feb"; ObjectID = "m6X-BW-sPU"; */
+"m6X-BW-sPU.normalTitle" = "17 يونيو";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "mhc-ye-1EU"; */
+"mhc-ye-1EU.text" = "التقييم";
+
+/* Class = "UILabel"; text = "Delivery Fee:"; ObjectID = "mr5-RU-Ne0"; */
+"mr5-RU-Ne0.text" = "Delivery Fee:";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "myJ-5O-ZD0"; */
+"myJ-5O-ZD0.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "Now"; ObjectID = "n24-C3-aev"; */
+"n24-C3-aev.normalTitle" = "Now";
+
+/* Class = "UIButton"; normalTitle = "Address One (home)"; ObjectID = "n2K-ct-x6Q"; */
+"n2K-ct-x6Q.normalTitle" = "Address One (home)";
+
+/* Class = "UILabel"; text = "Chicken Kickers"; ObjectID = "nJu-hS-4q4"; */
+"nJu-hS-4q4.text" = "دجاج الكيكرز";
+
+/* Class = "UILabel"; text = "35pt"; ObjectID = "nW9-1p-jag"; */
+"nW9-1p-jag.text" = "35pt";
+
+/* Class = "UITextField"; placeholder = "    SMS CODE"; ObjectID = "oNg-9a-o1f"; */
+"oNg-9a-o1f.placeholder" = "    رمز التفعيل";
+
+/* Class = "UIButton"; normalTitle = "Redeem Coupon"; ObjectID = "oTQ-MB-ZEl"; */
+"oTQ-MB-ZEl.normalTitle" = "أستخدم الكوبون";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "oVs-Gk-0ce"; */
+"oVs-Gk-0ce.text" = "Date:";
+
+/* Class = "UITextField"; placeholder = "    Confirm Password"; ObjectID = "oYZ-ET-2vR"; */
+"oYZ-ET-2vR.placeholder" = "    تأكيد كلمة السر";
+
+/* Class = "UILabel"; text = "Enter New Password* "; ObjectID = "oi9-yL-gdb"; */
+"oi9-yL-gdb.text" = "Enter New Password* ";
+
+/* Class = "UIButton"; normalTitle = "18:00"; ObjectID = "oo4-X8-udo"; */
+"oo4-X8-udo.normalTitle" = "18:00";
+
+/* Class = "UILabel"; text = "Loyalty Points:"; ObjectID = "ozC-Nr-9sQ"; */
+"ozC-Nr-9sQ.text" = "نقاط العم ء:";
+
+/* Class = "UINavigationItem"; title = "My Settings"; ObjectID = "p24-Eg-tAA"; */
+"p24-Eg-tAA.title" = "ا عدادات";
+
+/* Class = "UITextField"; placeholder = "Insert coupon code"; ObjectID = "p94-fO-HfV"; */
+"p94-fO-HfV.placeholder" = "أدخل رمز الكوبون";
+
+/* Class = "UIButton"; normalTitle = "SEARCH FOR RESERVATION"; ObjectID = "pEg-uG-Ccr"; */
+"pEg-uG-Ccr.normalTitle" = "عرض ا طاعم للحجوزات";
+
+/* Class = "UILabel"; text = "6:30PM"; ObjectID = "pSh-BP-SPd"; */
+"pSh-BP-SPd.text" = "6:30PM";
+
+/* Class = "UIButton"; normalTitle = "Choose Area"; ObjectID = "q20-Yw-7sO"; */
+"q20-Yw-7sO.normalTitle" = "إختر ا نطقة";
+
+/* Class = "UIButton"; normalTitle = "Choose Area"; ObjectID = "qAc-bF-3Pb"; */
+"qAc-bF-3Pb.normalTitle" = "إختر ا نطقة";
+
+/* Class = "UIButton"; normalTitle = "Knet"; ObjectID = "qQi-Xd-DZt"; */
+"qQi-Xd-DZt.normalTitle" = "كي نت";
+
+/* Class = "UILabel"; text = "18/02/2017"; ObjectID = "qV5-HE-5ME"; */
+"qV5-HE-5ME.text" = "18/02/2017";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "qXR-KO-gbe"; */
+"qXR-KO-gbe.text" = "Total";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "qZC-3w-UXO"; */
+"qZC-3w-UXO.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "Delivery"; ObjectID = "qh1-WN-Bdw"; */
+"qh1-WN-Bdw.text" = "توصيل";
+
+/* Class = "UILabel"; text = "Restaurant Address:"; ObjectID = "qnT-tW-1xC"; */
+"qnT-tW-1xC.text" = "Restaurant Address:";
+
+/* Class = "UILabel"; text = "135pt"; ObjectID = "r6h-0n-E7Y"; */
+"r6h-0n-E7Y.text" = "135pt";
+
+/* Class = "UILabel"; text = "Choose Cuisine:"; ObjectID = "rT1-0J-Nma"; */
+"rT1-0J-Nma.text" = "إختر نوع ا طبخ:";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "rht-uD-IqP"; */
+"rht-uD-IqP.normalTitle" = "Male";
+
+/* Class = "UILabel"; text = "Knet"; ObjectID = "rmb-Kk-gf0"; */
+"rmb-Kk-gf0.text" = "كي نت";
+
+/* Class = "UIButton"; normalTitle = "SEARCH FOR DELIVERY"; ObjectID = "s5y-9B-ouY"; */
+"s5y-9B-ouY.normalTitle" = "عرض ا طاعم التوصيل";
+
+/* Class = "UILabel"; text = "Working Hours"; ObjectID = "sVU-CB-mhg"; */
+"sVU-CB-mhg.text" = "أوقات العمل";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "stz-sb-w8f"; */
+"stz-sb-w8f.text" = "Gender";
+
+/* Class = "UILabel"; text = "Gained/Used"; ObjectID = "syr-Gs-peE"; */
+"syr-Gs-peE.text" = "Gained/Used";
+
+/* Class = "UINavigationItem"; title = "My Points"; ObjectID = "tEc-RP-2dh"; */
+"tEc-RP-2dh.title" = "نقاطي";
+
+/* Class = "UILabel"; text = "Pre-Order"; ObjectID = "tTp-6C-sBU"; */
+"tTp-6C-sBU.text" = "الطلب ا سبق";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "trD-7i-8be"; */
+"trD-7i-8be.text" = "طريقة الدفع";
+
+/* Class = "UIButton"; normalTitle = "Choose Cuisine"; ObjectID = "u8i-hp-TqG"; */
+"u8i-hp-TqG.normalTitle" = "إختر نوع ا طبخ";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "uSg-Sp-dmx"; */
+"uSg-Sp-dmx.normalTitle" = "تأكيد";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "uWP-g6-6BT"; */
+"uWP-g6-6BT.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Name*"; ObjectID = "ubl-34-mnu"; */
+"ubl-34-mnu.text" = "Name*";
+
+/* Class = "UILabel"; text = "14/07/2017  17:30"; ObjectID = "umx-cp-CZX"; */
+"umx-cp-CZX.text" = "14/07/2017  17:30";
+
+/* Class = "UILabel"; text = "16th February 2017"; ObjectID = "vCI-Im-cWT"; */
+"vCI-Im-cWT.text" = "16th February 2017";
+
+/* Class = "UILabel"; text = "UNDER PROCESS"; ObjectID = "vJE-0j-FrQ"; */
+"vJE-0j-FrQ.text" = "UNDER PROCESS";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "vcN-ud-FHC"; */
+"vcN-ud-FHC.text" = "English";
+
+/* Class = "UINavigationItem"; title = "Checkout"; ObjectID = "vhV-wo-AN6"; */
+"vhV-wo-AN6.title" = "Checkout";
+
+/* Class = "UILabel"; text = "Loyalty Points:"; ObjectID = "w6R-4p-Xmk"; */
+"w6R-4p-Xmk.text" = "نقاط العم ء:";
+
+/* Class = "UIButton"; normalTitle = "SKIP AD"; ObjectID = "wOa-1l-8gl"; */
+"wOa-1l-8gl.normalTitle" = "تخطى ميلادي";
+
+/* Class = "UILabel"; text = "KD 4.500"; ObjectID = "whP-co-k1G"; */
+"whP-co-k1G.text" = "د.ك. 4.500";
+
+/* Class = "UIButton"; normalTitle = "Credit card"; ObjectID = "wtG-8T-eJF"; */
+"wtG-8T-eJF.normalTitle" = "Credit card";
+
+/* Class = "UILabel"; text = "Choose Date"; ObjectID = "xBZ-A2-qKU"; */
+"xBZ-A2-qKU.text" = "Choose Date";
+
+/* Class = "UILabel"; text = "Oishii"; ObjectID = "xDp-53-YxF"; */
+"xDp-53-YxF.text" = "Oishii";
+
+/* Class = "UILabel"; text = "18:30"; ObjectID = "xes-CR-5Gp"; */
+"xes-CR-5Gp.text" = "18:30";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "yGb-H8-eT2"; */
+"yGb-H8-eT2.text" = "أسم ا ستخدم";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "ycR-5f-Efd"; */
+"ycR-5f-Efd.text" = "Total";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "yev-Sa-1Vy"; */
+"yev-Sa-1Vy.normalTitle" = "-";
+
+/* Class = "UITextField"; placeholder = "Insert coupon code"; ObjectID = "yru-JL-NH8"; */
+"yru-JL-NH8.placeholder" = "أدخل رمز الكوبون";
+
+/* Class = "UILabel"; text = "Payment method:"; ObjectID = "z3O-qk-vdn"; */
+"z3O-qk-vdn.text" = "Payment method:";
+
+/* Class = "UILabel"; text = "Total amount:"; ObjectID = "zCQ-2A-LNz"; */
+"zCQ-2A-LNz.text" = "Total amount:";
+
+/* Class = "UIButton"; normalTitle = "ADD REVIEW"; ObjectID = "zHZ-6j-wMo"; */
+"zHZ-6j-wMo.normalTitle" = "أضافة تقييم";
+
+/* Class = "UILabel"; text = "Main Street 164"; ObjectID = "zmB-rk-vPz"; */
+"zmB-rk-vPz.text" = "Main Street 164";
